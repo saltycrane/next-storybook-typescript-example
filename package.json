@@ -1,9 +1,6 @@
 {
   "scripts": {
     "build-storybook": "build-storybook -c .storybook -o .out",
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
     "storybook": "start-storybook"
   },
   "prettier": {
@@ -20,6 +17,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
+    "@storybook/addon-info": "^5.3.18",
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^5.3.18",
     "babel-loader": "^8.1.0",
