@@ -21,4 +21,4 @@ $ npm run build-storybook
 - [Export Storybook as a Static App](https://storybook.js.org/docs/basics/exporting-storybook/)
 - [TypeScript Config docs](https://storybook.js.org/docs/configurations/typescript-config/)
 - [Storybook TypeScript preset](https://github.com/storybookjs/presets/tree/master/packages/preset-typescript)
-- [Storybook Info Addon](https://github.com/storybookjs/storybook/tree/master/addons/info)
+- [Storybook Docs Addon](https://github.com/storybookjs/storybook/tree/master/addons/docs)
